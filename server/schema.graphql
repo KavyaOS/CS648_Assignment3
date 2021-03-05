@@ -7,7 +7,7 @@ type Product {
 }
 
 enum CategoryList {
-  Shirts
+  Shirt
   Jeans
   Jackets
   Sweaters
